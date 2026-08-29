@@ -30,3 +30,5 @@ Follow these steps to run the application locally on your machine:
 ```bash
 git clone [https://github.com/venkatadri2007manchu-lgtm/password-strength-analyzer.git](https://github.com/venkatadri2007manchu-lgtm/password-strength-analyzer.git)
 cd password-strength-analyzer
+
+🚀 **Live Demo:** [https://password-strength-analyzer-43vb.onrender.com](https://password-strength-analyzer-43vb.onrender.com)
